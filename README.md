@@ -1,7 +1,7 @@
 # Ezik Bot'un Maceraları
 
 Ezik Bot, Unity oyun motoru kullanılarak C# ile geliştirilmiş 3D bir platform/aksiyon oyunu projesidir. Proje, küçük ve basit bir platform deneyimi sunması amacıyla modern platform mekaniklerini ve modüler kod mimarisini bir araya getirmektedir.
-Oyun tam değildir. Herhangi bir kar amacı gütmemektedir. Oyun tasarlama konusunda pratik olsun diye hazırlanmıştır.
+Oyun tam değildir. Eksikleri ve çalışmayan yerleri vardır. Herhangi bir kar amacı gütmemektedir. Oyun tasarlama konusunda pratik olsun diye hazırlanmıştır.
 
 ## 🚀 Öne Çıkan Özellikler
 
